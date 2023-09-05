@@ -70,7 +70,7 @@ IV. Fast-moving product lines vs slow-moving Product Lines
 ![image](https://github.com/ashu1717/MintClassicSQL/assets/57885219/1c32956a-4627-45dc-b499-5544d9039702)
 
 From the above table, we can see that **Ships** and **Trucks and buses** product lines are selling faster than the rest.
-Another thing to notice is the huge amount of quantity in stock as compared to the orders is very high and doing a 5% reduction on most of the inventory will save a lot of space and eventually help out in eliminating the **warehouse d** and distributing its products across the warehouses.
+Another thing to notice is the huge amount of quantity in stock as compared to the orders is very high and doing a **5% reduction** on most of the inventory will save a lot of space and eventually help out in eliminating the **warehouse d** and distributing its products across the warehouses.
 
 
 
