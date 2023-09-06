@@ -111,6 +111,10 @@ Another thing to notice is the huge amount of quantity in stock as compared to t
 
 
 
+## Credits
+
+- Coursera
+-(https://github.com/khoiduong/mintClassicsSQL_analysis/)
 
 
 
