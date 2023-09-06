@@ -1,0 +1,54 @@
+productCode,productname,totalOrdersNotShipped_AllReasons,TotalOrders_Cancelled
+S18_3029,"1999 Yamaha Speed Boat",205,99
+S72_3212,"Pont Yacht",188,61
+S700_3167,"F/A 18 Hornet 1/72",175,66
+S700_3962,"The Queen Mary",170,63
+S700_3505,"The Titanic",170,54
+S700_2610,"The USS Constitution Ship",167,78
+S700_2466,"America West Airlines B757-200",155,33
+S72_1253,"Boeing X-32A JSF",153,61
+S24_3949,"Corsair F4U ( Bird Cage)",153,48
+S24_1785,"1928 British Royal Navy Airplane",152,81
+S24_3816,"1940 Ford Delivery Sedan",152,101
+S18_1662,"1980s Black Hawk Helicopter",142,92
+S18_3685,"1948 Porsche Type 356 Roadster",142,31
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",141,68
+S50_1341,"1930 Buick Marquette Phaeton",139,83
+S700_2047,"HMS Bounty",134,73
+S18_2581,"P-51-D Mustang",132,24
+S18_1589,"1965 Aston Martin DB5",132,24
+S24_3420,"1937 Horch 930V Limousine",131,78
+S24_4278,"1900s Vintage Tri-Plane",129,27
+S700_1938,"The Mayflower",127,73
+S32_4289,"1928 Ford Phaeton Deluxe",126,64
+S24_2011,"18th century schooner",124,81
+S700_4002,"American Airlines: MD-11S",119,35
+S18_3259,"Collectable Wooden Train",119,71
+S700_1138,"The Schooner Bluenose",116,79
+S10_4757,"1972 Alfa Romeo GTA",113,64
+S24_3151,"1912 Ford Model T Delivery Wagon",110,50
+S18_3140,"1903 Ford Model A",105,64
+S24_2841,"1900s Vintage Bi-Plane",105,45
+S18_4522,"1904 Buick Runabout",98,42
+S32_1374,"1997 BMW F650 ST",94,45
+S18_3232,"1992 Ferrari 360 Spider red",88,40
+S18_1129,"1993 Mazda RX-7",87,26
+S18_1984,"1995 Honda Civic",81,33
+S18_2870,"1999 Indy 500 Monte Carlo SS",78,37
+S24_2972,"1982 Lamborghini Diablo",76,40
+S700_1691,"American Airlines: B767-300",74,63
+S700_2834,"ATA: B757-300",46,25
+S12_1108,"2001 Ferrari Enzo",46,46
+S12_3891,"1969 Ford Falcon",44,44
+S12_4675,"1969 Dodge Charger",41,41
+S24_3856,"1956 Porsche 356A Coupe",39,39
+S12_3148,"1969 Corvair Monza",30,30
+S32_3207,"1950's Chicago Surface Lines Streetcar",27,27
+S12_3990,"1970 Plymouth Hemi Cuda",25,25
+S12_1099,"1968 Ford Mustang",24,24
+S24_3371,"1971 Alpine Renault 1600s",24,24
+S18_4027,"1970 Triumph Spitfire",23,23
+S24_4048,"1992 Porsche Cayenne Turbo Silver",23,23
+S18_1889,"1948 Porsche 356-A Roadster",23,23
+S12_3380,"1968 Dodge Charger",22,22
+S50_1514,"1962 City of Detroit Streetcar",21,21
