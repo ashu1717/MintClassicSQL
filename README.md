@@ -23,7 +23,10 @@ To support a data-based business decision, they are looking for suggestions and 
 * Are we storing items that are not moving? Are any items candidates for being dropped from the product line?
 *** 
 # The following data is produced using SQL queries:
-I. Total quantity of items in each warehouse
+
+**I. Total quantity of items in each warehouse**
+
+
 
 
 | warehouseCode        | warehouseName         | total_products  |
@@ -37,7 +40,7 @@ According to the table above, Warehouses A and C have similar quantity levels of
 
 While Warehouse B has the most quantity at 219,183, Warehouse D has the least quantity at 79,380.
 
-The **solution for eliminating** one warehouse is to remove warehouse D and distribute its warehouse items across the other three warehouses
+The **solution for eliminating** one warehouse is to **remove warehouse D** and distribute its warehouse items across the other three warehouses
 
 These are some of the issues to consider when considering eliminating warehouses:
 
@@ -47,7 +50,7 @@ These are some of the issues to consider when considering eliminating warehouses
 * The impact on delivery times to customers
 * Geographic Impact of closing one warehouse on delivery.
 
-II. Total quantity ordered and current quantity in stock for each product in Warehouse d
+**II. Total quantity ordered and current quantity in stock for each product in Warehouse d**
   ![image](https://github.com/ashu1717/MintClassicSQL/assets/57885219/01ffaad3-8e1e-408e-a384-12a69307ded0)
 
 According to the data above, we can observe that the quantity that the customer ordered is almost always significantly less than the quantity in stock.
@@ -57,14 +60,14 @@ On the one hand, the data concludes that the company has more stocks than it can
 
 One solution to **overstocking** is to reduce the inventory of specific products.
 
-III. Total quantity ordered and current quantity in stock for each product in all the Warehouses
+**III. Total quantity ordered and current quantity in stock for each product in all the Warehouses**
 ![image](https://github.com/ashu1717/MintClassicSQL/assets/57885219/723216bf-50d1-48be-a292-05219470b001)
 
 As we can see, the issue of **overstocking** is common to all the warehouses.
 
 Not only that, the column "totalQuantityOrdered" for the above table only covered the ordered unit, so there is no information on its status (e.g., if it actually shipped, was canceled, or for any other reason).
 
-IV. Number of orders not shipped for all reasons vs canceled only.
+**IV. Number of orders not shipped for all reasons vs canceled only.**
 |productCode	|productName	|totalOrdersNotShipped_AllReasons|	totalOrders_Cancelled
 | :-------------: |:-------------:| :-----: | :--------: |
 S18_3029	|1999 Yamaha Speed Boat	|205	|99
@@ -98,7 +101,7 @@ S24_3151	|1912 Ford Model T Delivery Wagon	|110	|50
 ....
 
 
-V. Fast-moving product lines vs slow-moving Product Lines
+**V. Fast-moving product lines vs slow-moving Product Lines**
 
 ![image](https://github.com/ashu1717/MintClassicSQL/assets/57885219/1c32956a-4627-45dc-b499-5544d9039702)
 
